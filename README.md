@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SmasherK
-- 👀 I’m interested in Anime, Programming(obviously)general,Movies and Entrepreneurship
+- 👋 Hi, I’m Kamvelihle Sikalana
+- 👀 I’m interested in Anime, Programming and Entrepreneurship
 - 🌱 I’m currently learning Computer Science (Java, 1st year)
 - 💞️ I’m looking to collaborate on anything "light", for now at least.
-- 📫 How to reach me -> ksikalana@gmail.com, Kamvelihle Sikalana(LinkedIn)
+- 📫 How to reach me ->  Kamvelihle Sikalana(LinkedIn)
 
 <!---
 SmasherK/SmasherK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
